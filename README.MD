@@ -1,1 +1,1 @@
-webpack3 + typescript + react project
+webpack3 + typescript + react + redux + react-router4
